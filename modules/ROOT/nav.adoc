@@ -1,1 +1,5 @@
 * xref:ROOT:01_simple/index.adoc[Hello, AsciiDoc!]
+
+.include directive で章毎にファイルを分けてみる
+* xref:ROOT:02_include/01.adoc[IntelliJ IDEA 2020.3 新機能メモ書き]
+* xref:ROOT:02_include/02.adoc[Asciidoctor+Gradle の環境で AsciiDoc 形式のドキュメントから HTML ファイルを生成してみる]
