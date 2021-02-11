@@ -1,0 +1,45 @@
+= AsciiDoc 形式のドキュメントに PlantUML の図を埋め込む
+Doc Writer <doc@example.com>
+:lang: ja
+
+== シーケンス図
+
+[plantuml]
+....
+include::image$03_diagram/example-sequence.puml[]
+....
+
+== クラス図
+
+[plantuml]
+....
+include::image$03_diagram/example-class.puml[]
+....
+
+== BPMN
+
+[bpmn]
+....
+include::image$03_diagram/example-bpmn.xml[]
+....
+
+== bytefield
+
+[bytefield]
+....
+include::image$03_diagram/example-bytefield.clj[]
+....
+
+== ditaa
+
+[ditaa]
+....
+include::image$03_diagram/example-ditaa.txt[]
+....
+
+== C4 model with PlantUML
+
+[plantuml]
+....
+include::image$03_diagram/example-c4model.puml[]
+....
