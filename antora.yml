@@ -1,6 +1,6 @@
 name: ksbysample-antora
 title: ksbysample-antora
-version: v2.0
+version: v3.0
 start_page: ROOT:01_simple/index.adoc
 nav:
   - modules/ROOT/nav.adoc
