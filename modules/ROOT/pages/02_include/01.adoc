@@ -22,12 +22,12 @@ Search Everywhere dialog で `commit hashes and messages, tags, and branches` �
 
 Shift キーを２回押してダイアログを表示した後、「Git」タブを選択してから `redis`（commit message にこの文字列が入力されているものがあります）と入力してみましたが、何も表示されず。。。
 
-image::01-01.png[,420,423]
+image::02_include/01-01.png[,420,423]
 
 ダイアログ右上の「Filter」ボタンをクリックすると「Commit by hash」しかチェックされていませんでした。
 
-image::01-02.png[,558,158]
+image::02_include/01-02.png[,558,158]
 
 「All」ボタンをクリックして全てチェックすると commit message も検索してヒットしたものが表示されるようになりました。
 
-image::01-03.png[,562,179]
+image::02_include/01-03.png[,562,179]
